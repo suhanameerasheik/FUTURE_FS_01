@@ -23,19 +23,7 @@ Host using GitHub Pages:
 3. Visit:https://suhanameerasheik.github.io/FUTURE_FS_01/
 
 > Tip: If you prefer a quick local preview, open `index.html` in your browser.
-
-## 📁 Project structure
-```
-FUTURE_FS_01/
-├─ index.html
-├─ style.css
-├─ mediaqueries.css
-├─ script.js
-├─ README.md
-└─ Assets/
-   └─ ...
-```
-
+> 
 ## ✨ Customize for your portfolio
 - Replace the project title and description with your name and role.
 - Add a short list of technologies and your contributions.
@@ -53,3 +41,4 @@ This project is open source — add an appropriate license (e.g., MIT) if desire
 ---
 
 *Generated README to use as a portfolio entry. Replace placeholders with your GitHub username, repo name, and personal details.*
+
