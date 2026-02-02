@@ -38,7 +38,4 @@ Replace with your preferred contact method (email, LinkedIn, portfolio link).
 ## 📄 License
 This project is open source — add an appropriate license (e.g., MIT) if desired.
 
----
-
-*Generated README to use as a portfolio entry. Replace placeholders with your GitHub username, repo name, and personal details.*
 
